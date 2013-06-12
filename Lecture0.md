@@ -16,10 +16,10 @@ Lecture 0 Web2.0导论
 * CSS的作用
 * CSS的历史简介
 * CSS基础知识：
-  * 添加样式的三种方法 
-  * CSS的基本语法 
-  * CSS注释 
-  * CSS基本选择器（元素、id、class） 
+  * 添加样式的三种方法
+  * CSS的基本语法
+  * CSS注释
+  * CSS基本选择器（元素、id、class）
   * 一些CSS的简单属性（font、height、width、border、background）
 
 ## 教学方法
