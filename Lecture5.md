@@ -8,6 +8,7 @@ Lecture 5 PHP基础
 * 了解PHP的概念
 * 初步掌握PHP的环境配置和安装
 * PHP基本语法
+* PHP服务端基础编程
 
 ## 知识点
 
@@ -23,9 +24,9 @@ Lecture 5 PHP基础
   * 变量、数据类型、运算符 
   * 控制流 
   * 函数
-6. 简单的客户端和服务端编程:
-  * 用表单做例子 
-  * HTTP请求的概念 
+  * ...
+
+6. PHP服务端基础编程:
   * GET、POST请求 
   * PHP如何处理请求
 
@@ -175,12 +176,19 @@ print 和 echo 的区别: http://www.diffen.com/difference/Echo_(PHP)_vs_Print_(
 
 **foreach loop**
 
+* * *
+
+###PHP服务端基础编程
+1. GET && POST请求
+	* GET: GET表示用于信息获取请求
+	* POST: POST表示可能修改变服务器上的资源的请求 
+2. 用户登陆表单提交例子
 
 ## 扩展知识
 
 ## 开发工具
 [Vim]()<br/>
-[Sublime Text](http://www.sublimetext.com/)<br>
+[Sublime Text 2](http://www.sublimetext.com/)<br>
 [Zend Studio](http://www.zend.com/products/studio/)<br/>
 [NetBeans PHP](https://netbeans.org/features/php/)
 
