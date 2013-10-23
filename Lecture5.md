@@ -1,6 +1,10 @@
 Lecture 5 PHP基础
 ============
 
+##课件展示
+[http://slid.es/sysumiac/lecture-5-php-basic](http://slid.es/sysumiac/lecture-5-php-basic)
+
+
 ## 课程目的
 * 掌握服务器概念
 * 掌握客户端和服务端交互流程
