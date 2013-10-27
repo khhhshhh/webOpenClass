@@ -4,7 +4,7 @@
 
 1.  比较宏观地讲css的内容和作用，让同学们更好理解css总体概念
 2.  比较深入讲一些css具体概念和知识，帮助同学们更好使用css
-3.  简单介绍css3，引起同学们对css的兴趣
+
 
 ## 知识点
 
@@ -19,7 +19,7 @@ css作用、css使用方法、css书写格式、css基础选择器及其使用�
 3.  html文档流，行内元素及块级元素
 4.  盒子模型（margin，padding，border，content）
 5.  css定位与布局（float&amp;clear，position，display, z-index ...）
-6.  初窥css3（简述，绚丽鲜活的例子）
+
 
 ## 教学方法
 
